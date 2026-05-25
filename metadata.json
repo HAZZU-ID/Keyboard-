@@ -1,0 +1,6 @@
+{
+  "name": "Sinhala Singlish Keyboard",
+  "description": "Samsung-style keyboard supporting high-quality dynamic Singlish-to-Sinhala conversion, pre-bundled Apple Sinhala font, customizable layouts, and seamless translation and font selection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
